@@ -1,0 +1,1 @@
+Bolsa de iniciação científica na área deanálise de dados aplicada à predição deanomalias pluviais no Instituto dePesquisas Hidráulicas (IPH). Nela,trabalhei com o desenvolvimento dealgoritmos de interpolação por vizinhonatural com bibliotecas da linguagemPython.
